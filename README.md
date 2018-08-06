@@ -1,0 +1,1 @@
+# postgres9.2-dockerautomatedbuild
